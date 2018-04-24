@@ -1,0 +1,19 @@
+Todo:
+- Shade shield tower
+- Ensure all towers in selector are correct
+- Waves            (HP)
+- Health tower+enem(MP)
+- Smash enemies    (MP)
+- Spiky ball tower (LP)
+- Vulture enemy    (LP)
+
+Complete:
+- Bat animations
+- Refunds for towers + grace period
+- Shield tower
+- Shield enemies
+- Up-pointing tower
+- Spear enemies    (HP)
+
+Discarded:
+- Destroy unconnected towers

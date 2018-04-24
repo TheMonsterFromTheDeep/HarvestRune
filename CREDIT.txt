@@ -1,0 +1,7 @@
+This game is built using the following open-source libraries:
+ - GLFW
+ - SDL2
+
+The font used for all text aside from the title screen is Laconick-NormalA
+by Nick Curtis:
+http://www.1001fonts.com/laconick-normala-font.html

@@ -1,0 +1,11 @@
+inv_item null_item() {
+	return (inv_item){ NULL, act_null, 0 };
+}
+
+inv_item item_m(sprite* s, void (*action)(move_player*, entity*), int uses_tiles) {
+	return (inv_item){ s, action, uses_tiles };
+}
+
+void set_item(int index, inv_item i) {
+	items[index] = i;
+}
